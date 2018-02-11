@@ -1,0 +1,14 @@
+{
+  "name": "atom-ayu-syntax-light",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "ayu light syntax for Atom",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/dotWaldemar/atom-ayu-syntax-light",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
